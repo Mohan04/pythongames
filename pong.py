@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+This is Pong game implementation.
 """
 import turtle
 import os
